@@ -15,6 +15,6 @@ getco2values(file) extracts the first 197 entries of co2 values into a vector. T
 
 plotco2data() plots the first 197 of the co2 values alone.
 
-getquadfit() calculates a best fit quadratic polynomial and returns an equation of the polynomial.
+getquadfit() calculates a quadratic polynomial fit and returns an equation of the polynomial.
 
-plotquadfit() calculates a best fit quadratic polynomial and plots the fit line with the data.
+plotquadfit() calculates a quadratic polynomial fit and plots the fit line with the data.
